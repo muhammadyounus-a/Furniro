@@ -141,8 +141,9 @@ export default function Home({}: Props) {
             </div>
 
             {/* product showing section */}
-            <div className="">
-                
+            <div className="mt-20">
+                <p className="text-[18px] font-bold text-black text-center">Share your setup with</p>
+                <h2 className="text-[30px] font-bold text-black text-center">#FuniroFurniture</h2>
             </div>
         </>
     );

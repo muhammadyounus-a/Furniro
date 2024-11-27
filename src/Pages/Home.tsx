@@ -141,6 +141,9 @@ export default function Home({}: Props) {
             </div>
 
             {/* product showing section */}
+            <div className="">
+                
+            </div>
         </>
     );
 }
